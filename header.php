@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Sistema Panificadora</title>
+  <title>Sistema Nuevo Panificadora</title>
   <!-- plugins:css-->
   <link rel="stylesheet" href="src/vendors/feather/feather.css">
   <link rel="stylesheet" href="src/vendors/ti-icons/css/themify-icons.css">
@@ -11,7 +12,7 @@
   <link rel="stylesheet" href="src/vendors/mdi/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="src/vendors/select2/select2.min.css">
   <script src="src/js/hoverable-collapse.js"></script>
- 
+
   <!--  plugins:css icons-->
 
   <!--end plugins:css icons-->
@@ -21,12 +22,12 @@
   <!-- endinject -->
   <link rel="shortcut icon" href="src/images/corazon.png" />
 
-<!-- nuevas -->
+  <!-- nuevas -->
   <script src="src/vendors/js/vendor.bundle.base.js"></script>
   <!-- endinject -->
   <!-- Plugin js for this page -->
   <script src="src/vendors/typeahead.js/typeahead.bundle.min.js"></script>
- <script src="src/vendors/select2/select2.min.js"></script> 
+  <script src="src/vendors/select2/select2.min.js"></script>
   <!-- End plugin js for this page -->
   <!-- inject:js -->
   <script src="src/js/off-canvas.js"></script>
